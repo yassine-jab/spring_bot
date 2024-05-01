@@ -1,0 +1,1 @@
+insert into client values ('yassine','bahaj','0602877594');
